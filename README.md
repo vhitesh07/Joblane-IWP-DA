@@ -4,7 +4,7 @@
 
 <h2>📚 Credits</h2>
 
-This project was created by **V Hitesh (22BLC1167)** as part of a **Digital Assignment (DA)** for the **Internet and Web Programming** course.
+This project was created by **V Hitesh (22BLC1167)** as part of a **Digital Assignment** for the **Internet and Web Programming** course.
 
 <h2>🚀 Demo</h2>
 
