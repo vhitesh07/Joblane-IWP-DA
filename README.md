@@ -2,9 +2,13 @@
 
 <p id="description">Full Stack Job application portal built using MERN stack, focusing on simplifying job applications.</p>
 
+<h2>📚 Credits</h2>
+
+This project was created by **V Hitesh (22BLC1167)** as part of a **Digital Assignment (DA)** for the **Internet and Web Programming** course.
+
 <h2>🚀 Demo</h2>
 
-[Website](https://joblane.vercel.app/)<br />
+Website - [joblane.verce.app](https://joblane.vercel.app/)<br />
 
 <h2>🧐 Features</h2>
 
@@ -73,7 +77,3 @@ To get started with the assignment project, follow these steps:
 - **Backend**: Node.js, Express.js
 - **Database**: MongoDB 
 - **Styling**: Tailwind CSS, Material UI, Mantine UI
-
-<h2>📚 Credits</h2>
-
-This project was created by **V Hitesh (22BLC1167)** as part of a **Digital Assignment (DA)** for the **Internet and Web Programming** course.
